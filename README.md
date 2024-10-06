@@ -11,3 +11,6 @@ sudo apt-get update && sudo apt-get install nasm git -y && git clone https://git
 ```bash
 tfs@ThisIsTFS:~$ asm <filename.s/.asm>
 ```
+<br />
+Just got tired of assembling, linking and executing step by step, so i built this🤷‍♂️ <br />
+Hope you find it useful!
