@@ -1,4 +1,4 @@
-# Easy-Assembler
+# Easy-Assembler By: TFS
 Assembling, linking and execution in just one script.\
 Requirements:\
 NASM Assembler
